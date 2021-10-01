@@ -20,6 +20,8 @@ The general idea of our proposed method is to **combine the weights** of two dif
 
 You can find the PDF and all the experiments <a href="https://github.com/CasellaJr/Federated-Transfer-Learning-using-Network-Composition">here</a>.
 
+----
+
 If you found some material in the thesis helpful, I'd appreciate if you could cite it using the below BibTex:
 
 <code class=" language-processing">@mastersthesis{Casella2021FTL,
