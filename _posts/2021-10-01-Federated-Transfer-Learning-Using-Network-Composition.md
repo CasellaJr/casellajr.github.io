@@ -16,7 +16,7 @@ The dissertation is organized as follows:
 * In Chapter 5 will be described all the **experiments** done in order to achieve good results.
 * Finally, in Chapter 6 will be drawn the **conclusions** and will be given some hints towards future developments.
 
-The general idea of our proposed method is to **combine the weights** of two different neural networks trained on two different datasets, but similar in their nature, and machines, and check how the perfor- mances change after the aggregation.
+The general idea of our proposed method is to **combine the weights** of two different neural networks trained on two different datasets, but similar in their nature, and machines, and check how the performances change after the aggregation.
 
 You can find the PDF and all the experiments <a href="https://github.com/CasellaJr/Federated-Transfer-Learning-using-Network-Composition">here</a>.
 
