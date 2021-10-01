@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Federated Transfer Learning using Network Composition (Master's Thesis)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This post discusses my Master's thesis Federated Transfer Learning using Network Composition and some new material presented in it.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
