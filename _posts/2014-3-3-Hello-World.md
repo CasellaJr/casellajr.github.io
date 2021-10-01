@@ -8,11 +8,11 @@ This post discusses my Master's thesis Federated Transfer Learning using Network
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
-<code class=" language-processing">@PhdThesis{Ruder2019Neural,
-  title={Neural Transfer Learning for Natural Language Processing},
-  author={Ruder, Sebastian},
-  year={2019},
-  school={National University of Ireland, Galway}
+<code class=" language-processing">@mastersthesis{Casella2021FTL,
+  title={Federated Transfer Learning using Network Composition},
+  author={Casella, Bruno},
+  year={2021},
+  school={University of Catania, Italy}
 }
 </code>
 
