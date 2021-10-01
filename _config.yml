@@ -50,7 +50,7 @@ url:
 baseurl: ""
 
 #
-markdown: redcarpet
+#markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
