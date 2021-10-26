@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federated Transfer Learning using Network Composition (Master's Thesis)
+title: My first task: a review of a paper
 ---
 
 This post discusses my Master's thesis Federated Transfer Learning using Network Composition and some new material presented in it.
