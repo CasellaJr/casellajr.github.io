@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first task Review of a paper
+title: My first task - the review of a paper
 ---
 
 This post discusses my Master's thesis Federated Transfer Learning using Network Composition and some new material presented in it.
