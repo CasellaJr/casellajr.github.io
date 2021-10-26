@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federated Transfer Learning using Network Composition (Master's Thesis)
+title: Federated Transfer Learning 
 ---
 
 This post discusses my Master's thesis Federated Transfer Learning using Network Composition and some new material presented in it.
