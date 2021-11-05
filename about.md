@@ -16,6 +16,6 @@ Actually I live in Turin with my friend Daniel.
 
 ### Contact me
 
-[email@domain.com](mailto:casella0798@gmail.com)
+[casella0798@gmail.com](mailto:casella0798@gmail.com)
 
 
