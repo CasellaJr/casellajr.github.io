@@ -13,3 +13,5 @@ Open Federated Learning (OpenFL) is a Python 3 project developed by Intel Labs a
 There are basically two components in the library: the collaborator which uses local dataset to train a global model and the aggregator which receives model updates from collaborators and combines them to form the global model.
 
 The aggregator is framework-agnostic, while the collaborator can use any deep learning frameworks, such as Tensorflow or PyTorch.
+
+Just to take confidence with this new framework, I am trying something simple: understand if an architecture with only 1 collaborator is equal to a non federated case. I will use DNNs (in particular CNNs like VGG) on simple datasets like MNIST or CIFAR10.
