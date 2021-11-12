@@ -15,3 +15,5 @@ There are basically two components in the library: the collaborator which uses l
 The aggregator is framework-agnostic, while the collaborator can use any deep learning frameworks, such as Tensorflow or PyTorch.
 
 Just to take confidence with this new framework, I am trying something simple: understand if an architecture with only 1 collaborator is equal to a non federated case. I will use DNNs (in particular CNNs like VGG) on simple datasets like MNIST or CIFAR10.
+
+UPDATE 12/11/2021: After more or less 7 days of experiments I think that the framework is not working well and that metrics in federated and nonn-federated scenarios are different. I wrote to an Intel developer of OpenFL and he confirmed that I am right: single collaborator metrics in federated and non-federated scenario are different even with fixed random seeds.
