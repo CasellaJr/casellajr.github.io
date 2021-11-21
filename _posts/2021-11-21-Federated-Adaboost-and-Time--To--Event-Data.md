@@ -11,3 +11,5 @@ The idea is to discover some datasets and split them in a non-IID way and then t
 I am also studying the theory about Time-To-Event data because our research group, _Alpha_, is collaborating with a research group of Medical Sciences, for doing Federated Learning on Time-To-Event medical data.
 
 No news about the OpenFL framework. I am attending a fixed version in which 1 collaborator scenario is equal to a non federated case.
+
+I wrote also a review for ACI2021.
