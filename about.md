@@ -18,7 +18,9 @@ Actually I live in Turin with my friend Daniel.
 
 [bruno.casella@unito.it](mailto:bruno.casella@unito.it)
 
+
 [casella@di.unito.it](mailto:casella@di.unito.it)
+
 
 [casella0798@gmail.com](mailto:casella0798@gmail.com)
 
