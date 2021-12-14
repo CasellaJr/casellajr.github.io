@@ -13,7 +13,7 @@ Then, focusing on OpenFL, the developers uploaded a new version of the framework
 
 Now, the problems of retrieving non-iid datasets fits well with another task that I was treating in these days. Roberto Esposito (assistant professor at UniTO) and Mirko Polato (researcher at UniTO) asked me to create a function that, taken whatever dataset (images or tabular datasets) returns one of the five non-iid settings (described in P. Kairouz et al., Advances and Open Problems in Federated Learning, 2009.) of the same dataset on which FL algorithms could be tested thoroughly. I implemented a simple function that can do this, and Mirko improved my work. The objectiva is to test their work, _Federated Adaboost_ using these datasets.
 
-Tomorrow I will follow a two-days workshop on HPC and Quantum Computing by CINECA <a href="https://youtu.be/0I6lv8bL0WM"></a>
+Tomorrow I will follow a two-days workshop on HPC and Quantum Computing by CINECA <a href="https://youtu.be/0I6lv8bL0WM">link</a>
 
 I have also followed the European Pilot, an internation 4-years project on HPC and AI. https://eupilot.eu/
 
