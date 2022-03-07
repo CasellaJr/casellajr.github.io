@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hard work always pays off
+title: Bug OpenFL, Cell/Leaf Counting, Special Issue FL Medical Imaging
 ---
 
 Update 07-03-22 
