@@ -1,3 +1,8 @@
+---
+layout: post
+title: Papers, Florence, Lausanne, Lectures
+---
+
 It is more than one month from last post. In the meantime, I achieved great things:
 
 1) I am still waiting for the notification about the paper on the Special Issue for FL of IEEE TMI.
