@@ -396,16 +396,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
+          title: 'We had two accepted papers at ESANN 2025 (B, top 28%). I, Matthias...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
