@@ -1,18 +1,17 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "Summary": {
+    "name": "Bruno Casella",
+    "label": "Research Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "bruno.casella@unito.it",
+    "phone": "(39) 3312373931",
+    "summary": "PhD in Modeling and Data Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Antonio Pigafetta 49",
+      "postalCode": "TO 10129",
+      "city": "Turin",
+      "countryCode": "Italy",
+      "region": "Piedmont"
     },
     "profiles": [
       {
@@ -24,13 +23,27 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Turin",
+      "position": "Postdoctoral researcher",
+      "url": "barpizzeriaviacaracciolo.github.io",
+      "startDate": "2024-11-01",
+      "endDate": "--",
+      "summary": "Associate fellow position for the research project: Federated Learning (PNRR).",
+    },
+    {
+      "name": "Bar Pizzeria Via Caracciolo",
+      "position": "Web Programmer",
+      "url": "barpizzeriaviacaracciolo.github.io",
+      "startDate": "2022-02-01",
+      "endDate": "2022-03-01",
+      "summary": "Designed a webpage for Bar Pizzeria Via Caracciolo.",
+    },
+    {
+      "name": "Studio commercialista Casella",
+      "position": "Software manager",
+      "startDate": "2017-10-01",
+      "endDate": "2021-07-01",
+      "summary": "In charge of processing accounting data via remote connection system. Continuously improved the infrastructure architecture of the studio since launching the service.",
     }
   ],
   "volunteer": [
