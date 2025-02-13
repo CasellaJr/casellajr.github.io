@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. I am a PhD in the Alpha research group at the Computer Science Department of the University of Turin. I have obtained my Bachelor 's degree in Computer Engineering in 2020 and my Master's degree in Data Science for management in 2021, both at the University of Catania.
+subtitle: PhD in Modeling and Data Science.
 
 profile:
   align: right
@@ -29,6 +29,9 @@ latest_posts:
 
 I am a PhD in the Alpha research group at the Computer Science Department of the University of Turin. I have obtained my Bachelor 's degree in Computer Engineering in 2020 and my Master's degree in Data Science for management in 2021, both at the University of Catania. Besides that, I practice streetlifting, basketball, football, chess, and I love reading books and going disco.
 
-Check out my CV: english or italian.
+Check out my CV: [English](/assets/pdf/cv.pdf) or [Italian](/assets/pdf/cv_ita.pdf).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### My research interests
+
+- **Machine Learning** Deep Learning, Federated Learning, Transfer Learning
+- **High-Performance Computing** Distributed Learning
