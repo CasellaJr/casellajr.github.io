@@ -23,8 +23,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
+        },{id: "post-happy-valentine-39-s-day",
+      
+        title: "Happy Valentine&#39;s day",
+      
+      description: "an example of a blog post with bibliography",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2025/02/14/v.html";
+        
+      },
+    },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
           title: 'We had two accepted papers at ESANN 2025 (B, top 28%). I, Matthias...',
+          description: "",
+          section: "News",},{id: "news-we-had-an-accepted-paper-at-ecai-2025-a-top-14-9-i-samuele-fonio-lorenzo-sciandra-claudio-gallicchio-marco-aldinucci-mirko-polato-and-roberto-esposito-published-a-paper-on-fed2rc-federated-rocket-kernels-and-ridge-classifier-for-time-series-classification",
+          title: 'We had an accepted paper at ECAI 2025 (A, top 14.9%). I, Samuele...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
