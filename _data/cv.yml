@@ -15,20 +15,23 @@
       institution: University of Turin, Turin, Italy
       year: 2025
       description:
-        - Thesis title "".
+        - Thesis title "Advancing Federated Learning - Towards Decentralization and Personalized Models".
         - Supervised by Prof. Marco Aldinucci
+        - PhD with honors.
     - title: Master in Data Science for Management
       institution: University of Catania, Catania, Italy
       year: 2021
       description:
         - Thesis title "Federated Transfer Learning using Network Composition"
         - Supervised by Prof. Sebastiano Battiato and Prof. Mario Valerio Giuffrida.
+        - Final grade 110/110 cum laude
     - title: Bachelor in Computer Engineering
       institution: University of Catania, Catania, Italy
       year: 2020
       description:
         - Thesis title "Valutazione metodo di Intelligenza basato su Reinforcement Learning per il gioco degli scacchi"
         - Supervised by Prof. Concetto Spampinato.
+        - Final grade 100/110.
 
 - title: Experience
   type: time_table
