@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf # you can also use external links here
-description: Download my CV in <a href="/assets/pdf/cv.pdf"> English </a> or <a href="/assets/pdf/cv_ita.pdf"> Italian </a>.
+cv_pdf: CV__Casella_0725.pdf # you can also use external links here
+description: Download my CV in <a href="/assets/pdf/CV__Casella_0725.pdf"> English.
 toc:
   sidebar: left
 ---
