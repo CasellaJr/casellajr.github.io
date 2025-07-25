@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Modeling and Data Science.
+subtitle: Postdoctoral researcher - Computer Science Dept. @UniTO.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD in the Alpha research group at the Computer Science Department of the University of Turin. I have obtained my Bachelor 's degree in Computer Engineering in 2020 and my Master's degree in Data Science for management in 2021, both at the University of Catania. Besides that, I practice streetlifting, basketball, football, chess, and I love reading books and going disco.
+I am a Postdoctoral researcher in the Alpha research group at the Computer Science Department of the University of Turin. I have obtained my Bachelor 's degree in Computer Engineering in March 2020, my Master's degree in Data Science for management in September 2021, both at the University of Catania, and my PhD in Modeling and Data Science in June 2025, at the University of Turin. Besides that, I practice streetlifting, basketball, football, chess, and I love reading books and going disco.
 
 Check out my CV: [English](/assets/pdf/cv.pdf) or [Italian](/assets/pdf/cv_ita.pdf).
 
