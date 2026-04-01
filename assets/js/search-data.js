@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Courses and supervised theses",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Download my CV in  English.",
@@ -23,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-happy-valentine-39-s-day",
-      
-        title: "Happy Valentine&#39;s day",
-      
-      description: "an example of a blog post with bibliography",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2025/02/14/v.html";
-        
-      },
-    },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
+        },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
           title: 'We had two accepted papers at ESANN 2025 (B, top 28%). I, Matthias...',
           description: "",
           section: "News",},{id: "news-i-had-an-accepted-paper-at-pdp-2025-c-top-46-11-i-published-a-paper-on-a-performance-analysis-of-vm-based-trusted-execution-environments-for-confidential-federated-learning",
@@ -61,52 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-certification-announcement-i-ahave-been-certified-to-teach-data-parallelism-how-to-train-deep-learning-models-on-multiple-gpus-from-the-nvidia-deep-learning-institute-dli-i-will-give-my-first-workshop-on-may-8th-2026-registration-is-necessary-visit-workshop-s-page-for-more-information",
           title: 'Certification announcement! I ahave been certified to teach Data Parallelism: How to Train...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
