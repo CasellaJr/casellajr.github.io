@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses and supervised theses
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <h2>Teaching</h2>
