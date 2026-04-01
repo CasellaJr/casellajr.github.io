@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses and supervised theses",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Download my CV in  English.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses and supervised theses",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
           title: 'We had two accepted papers at ESANN 2025 (B, top 28%). I, Matthias...',
