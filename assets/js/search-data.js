@@ -54,8 +54,11 @@ ninja.data = [{
           section: "News",},{id: "news-workshop-announcement-i-am-glad-to-announce-that-we-christoph-düsing-from-the-university-of-bielefeld-ioanna-miliou-fmor-the-university-fo-stockholm-björn-eskofier-from-lmu-munich-and-mirko-polato-and-i-from-unito-are-organizing-the-1st-international-workshop-on-multicentrics-and-privacy-preserving-learning-in-healthcare-multipli-in-conjunction-with-the-24th-international-conference-on-artificial-intelligence-in-medicine-aime26-located-in-ottawa-canada-visit-multipli-s-website-for-more-information",
           title: 'Workshop announcement! I am glad to announce that we (Christoph Düsing from the...',
           description: "",
-          section: "News",},{id: "news-certification-announcement-i-ahave-been-certified-to-teach-data-parallelism-how-to-train-deep-learning-models-on-multiple-gpus-from-the-nvidia-deep-learning-institute-dli-i-will-give-my-first-workshop-on-may-8th-2026-registration-is-necessary-visit-workshop-s-page-for-more-information",
-          title: 'Certification announcement! I ahave been certified to teach Data Parallelism: How to Train...',
+          section: "News",},{id: "news-certification-announcement-i-have-been-certified-to-teach-data-parallelism-how-to-train-deep-learning-models-on-multiple-gpus-from-the-nvidia-deep-learning-institute-dli-i-will-give-my-first-workshop-on-may-8th-2026-registration-is-necessary-visit-workshop-s-page-for-more-information",
+          title: 'Certification announcement! I have been certified to teach Data Parallelism: How to Train...',
+          description: "",
+          section: "News",},{id: "news-special-issue-announcement-we-me-linara-adilova-and-michael-kamp-from-tu-dortmund-are-pleased-to-announce-that-we-have-a-special-issue-on-the-machine-learning-journal-on-advances-in-federated-learning-for-critical-applications-visit-si-s-page-for-more-information",
+          title: 'Special Issue announcement! We (me, Linara Adilova and Michael Kamp from TU Dortmund)...',
           description: "",
           section: "News",},{
         id: 'social-email',
