@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-special-issue-announcement-we-me-linara-adilova-and-michael-kamp-from-tu-dortmund-are-pleased-to-announce-that-we-have-a-special-issue-on-the-machine-learning-journal-on-advances-in-federated-learning-for-critical-applications-visit-si-s-page-for-more-information",
           title: 'Special Issue announcement! We (me, Linara Adilova and Michael Kamp from TU Dortmund)...',
           description: "",
+          section: "News",},{id: "news-we-had-an-accepted-paper-at-icann-2026-c-top-46-our-two-msc-students-luca-grandi-and-loris-signoretti-together-with-my-colleague-lorenzo-sciandra-i-marco-aldinucci-and-roberto-esposito-published-a-paper-on-a-lightweight-random-feature-framework-for-efficient-image-classification",
+          title: 'We had an accepted paper at ICANN 2026 (C, top 46%). Our two...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
