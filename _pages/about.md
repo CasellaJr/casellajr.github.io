@@ -33,5 +33,5 @@ Check out my CV: [English](/assets/pdf/cv.pdf) or [Italian](/assets/pdf/cv_ita.p
 
 #### My research interests
 
-- **Machine Learning** Deep Learning, Federated Learning, Transfer Learning
+- **Machine Learning** Deep Learning, Federated Learning, Transfer Learning, Continual Learning, Trustworthy AI
 - **High-Performance Computing** Distributed Learning
