@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-had-an-accepted-paper-at-icann-2026-c-top-46-our-two-msc-students-luca-grandi-and-loris-signoretti-together-with-my-colleague-lorenzo-sciandra-i-marco-aldinucci-and-roberto-esposito-published-a-paper-on-a-lightweight-random-feature-framework-for-efficient-image-classification",
           title: 'We had an accepted paper at ICANN 2026 (C, top 46%). Our two...',
           description: "",
+          section: "News",},{id: "news-we-had-an-accepted-paper-at-dami-journal-q1-quartile-based-on-scimago-i-samuele-fonio-lorenzo-sciandra-claudio-gallicchio-marco-aldinucci-mirko-polato-and-roberto-esposito-published-a-paper-on-fast-federated-time-series-classification-using-rocket-kernels-and-closed-form-classifiers",
+          title: 'We had an accepted paper at DAMI journal (Q1, quartile based on Scimago)....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
