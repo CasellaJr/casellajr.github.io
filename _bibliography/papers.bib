@@ -1,5 +1,45 @@
 ---
 ---
+@article{casella2026minifed2rc,
+  author       = {Bruno Casella and
+                  Samuele Fonio and
+                  Lorenzo Sciandra and
+                  Claudio Gallicchio and
+                  Marco Aldinucci and
+                  Mirko Polato and
+                  Roberto Esposito and},
+  title        = {Fast Federated Time Series Classification using Rocket Kernels and Closed-form Classifiers},
+  journal      = {Data Mining and Knowledge Discovery},
+  volume       = {XX},
+  pages        = {xxx--yyy},
+  year         = {2026},
+  url          = {xxx.yyy},
+  doi          = {xxx.yyy},
+  tppubtype    = {inproceedings},
+  abbr         = {DAMI},
+  selected     = {true},
+}
+
+@inproceedings{Grandi2026Roc2Img,
+	title        = {A Lightweight Random Feature Framework for Efficient Image Classification},
+	author       = {Grandi, Luca and Signoretti, Loris and Sciandra, Lorenzo and Casella, Bruno and Aldinucci, Marco and Esposito, Roberto},
+	year         = 2026,
+	booktitle    = {35th International Conference on Artificial Neural Networks – ICANN 2026},
+	pages        = {1--12},
+	doi          = {10.1007/978-3-032-38401-0_54},
+	url          = {https://iris.unito.it/retrieve/e5f10488-0568-4d6c-ada7-692b710240db/_ICANN_26__Roc2Imgs.pdf}
+}
+
+@inproceedings{fonio2025perfed,
+	title        = {{Personalized Aggregation for Federated Prototypical Learning}},
+	author       = {Fonio, Samuele and Casella, Bruno and Aldinucci, Marco},
+	year         = 2025,
+	booktitle    = {Proceedings of the ECML-PKDD Workshop, 3nd workshop on advancements in Federated Learning},
+	location     = {Porto, Portugal},
+	url          = {https://iris.unito.it/retrieve/47a8316b-62b7-4142-a0cc-a867d37175e3/wafl_preprint.pdf},
+	abstract     = {Federated Learning (FL) systems face numerous challenges, including data heterogeneity, communication constraints, and vulnerability to adversarial attacks. A promising approach that has recently gained attention is prototype learning, which gives the possibility to share only local prototypes rather than entire models. However, the reliability of such systems is often overlooked, leading to insufficient attention to potential attack vectors. In this paper, we investigate the robustness of two Federated Prototypical methods under both random and revert poisoning attacks. We propose an extension of these methods using personalized aggregation in two different ways to enhance their resilience. Our approach provides valuable insights into the reliability of Federated Prototype Learning and contributes to the development of more robust FL systems. We validate our findings through an extensive experimental evaluation on Cifar-10 and EMNIST, with gains in performance up to 10% and 20%, respectively, with respect to the baselines.},
+}
+
 @inproceedings{casella2025fed2rc,
   author       = {Bruno Casella and
                   Samuele Fonio and
@@ -19,6 +59,16 @@
   tppubtype = {inproceedings},
   selected           = {true},
   abbr = {ECAI}
+}
+
+@inproceedings{casella2025drocks,
+	title        = {{Decentralized Time Series Classification with ROCKET Features}},
+	author       = {Casella, Bruno and Jakobs, Matthias and Aldinucci, Marco and Buschjaeger, Sebastian},
+	year         = 2025,
+	booktitle    = {Proceedings of the ECML-PKDD Workshop, 3nd workshop on advancements in Federated Learning},
+	location     = {Porto, Portugal},
+	url          = {https://iris.unito.it/retrieve/b3d4f7f0-c7ec-4ad3-96be-6b55add95b6a/FAIA-413-FAIA251198.pdf},
+	abstract     = {Time series classification (TSC) is a critical task with applications in various domains, including healthcare, finance, and industrial monitoring. Due to privacy concerns and data regulations, Federated Learning has emerged as a promising approach for learning from distributed time series data without centralizing raw information. However, most FL solutions rely on a client-server architecture, which introduces robustness and confidentiality risks related to the distinguished role of the server, which is a single point of failure and can observe knowledge extracted from clients. To address these challenges, we propose DROCKS, a fully decentralized FL framework for TSC that leverages ROCKET (RandOm Convolutional KErnel Transform) features. In DROCKS, the global model is trained by sequentially traversing a structured path across federation nodes, where each node refines the model and selects the most effective local kernels before passing them to the successor. Extensive experiments on the UCR archive demonstrate that DROCKS outperforms state-of-the-art client-server FL approaches while being more resilient to node failures and malicious attacks. Our code is available at https://anonymous.4open.science/r/DROCKS-7FF3/README.md.},
 }
 
 @article{chisari2025cloud,
@@ -274,7 +324,6 @@
   keywords = {across, eupilot, streamflow},
   pubstate = {published},
   tppubtype = {inproceedings},
-  selected = {true},
   abbr = {ML4ASTRO}
 }
 
