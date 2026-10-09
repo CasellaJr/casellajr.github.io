@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-personal-stuff",
+          title: "Personal stuff",
+          description: "This list is always under construction.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/personal/";
+          },
         },{id: "news-we-had-two-accepted-papers-at-esann-2025-b-top-28-i-matthias-jakobs-marco-aldinucci-and-sebastian-buschjäger-published-a-paper-on-federated-time-series-classification-with-rocket-features-and-i-alessio-barbaro-chisari-marco-aldinucci-sebastiano-battiato-and-mario-valerio-giuffrida-published-a-paper-on-federated-time-series-classification-with-rocket-features",
           title: 'We had two accepted papers at ESANN 2025 (B, top 28%). I, Matthias...',
           description: "",
