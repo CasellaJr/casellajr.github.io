@@ -5,10 +5,11 @@
 	author       = {Casella, Bruno and Sciandra, Lorenzo},
 	year         = 2026,
 	optmonth	   = {11},
-	booktitle    = {The 5th Italian Conference on Big Data and Data Science - ITADATA2026},
+	booktitle    = {The 5th Italian Conference on Big Data and Data Science},
 	pages        = {1--12},
 	%%doi        = {TODO},
 	%%url        = {TODO},
+  abbr         = {ITADATA},
 	abstract 	 = {Time Series Classification (TSC) is a pivotal task in modern machine learning, with widespread applications in sensitive domains such as healthcare, finance, and cybersecurity. In real-world scenarios, data are inherently distributed and cannot be centralized due to strict privacy regulations, making federated learning a natural and necessary paradigm for collaborative model training. While several TSC methods have achieved strong performance in centralized settings, their gradient-based nature often results in prohibitive communication costs and limited efficiency when deployed in federated environments. In this context, MiniFed2RC has recently emerged as a fully federated, gradient-free approach for univariate TSC, combining random Rocket kernels with a closed-form ridge regression classifier. It has demonstrated state-of-the-art accuracy on the UCR univariate benchmark while significantly reducing computation and communication overhead. However, its effectiveness on multivariate time series—which are increasingly common in practice—has not yet been explored. In this paper, we present the first comprehensive benchmark of MiniFed2RC on the UEA multivariate time series classification archive. We evaluate the method across all 30 datasets, analyzing its predictive performance and communication costs. Our results show that MiniFed2RC achieves competitive classification performance on multivariate data, maintaining the same efficiency and robustness observed in the univariate setting. Code is available at https://github.com/CasellaJr/Fed2RC.},
 }
 
@@ -39,7 +40,8 @@
 	booktitle    = {35th International Conference on Artificial Neural Networks – ICANN 2026},
 	pages        = {1--12},
 	doi          = {10.1007/978-3-032-38401-0_54},
-	url          = {https://iris.unito.it/retrieve/e5f10488-0568-4d6c-ada7-692b710240db/_ICANN_26__Roc2Imgs.pdf}
+	url          = {https://iris.unito.it/retrieve/e5f10488-0568-4d6c-ada7-692b710240db/_ICANN_26__Roc2Imgs.pdf},
+  abbr         = {ICANN},
 }
 
 @inproceedings{fonio2025perfed,
@@ -50,6 +52,7 @@
 	location     = {Porto, Portugal},
 	url          = {https://iris.unito.it/retrieve/47a8316b-62b7-4142-a0cc-a867d37175e3/wafl_preprint.pdf},
 	abstract     = {Federated Learning (FL) systems face numerous challenges, including data heterogeneity, communication constraints, and vulnerability to adversarial attacks. A promising approach that has recently gained attention is prototype learning, which gives the possibility to share only local prototypes rather than entire models. However, the reliability of such systems is often overlooked, leading to insufficient attention to potential attack vectors. In this paper, we investigate the robustness of two Federated Prototypical methods under both random and revert poisoning attacks. We propose an extension of these methods using personalized aggregation in two different ways to enhance their resilience. Our approach provides valuable insights into the reliability of Federated Prototype Learning and contributes to the development of more robust FL systems. We validate our findings through an extensive experimental evaluation on Cifar-10 and EMNIST, with gains in performance up to 10% and 20%, respectively, with respect to the baselines.},
+  abbr         = {WAFL@ECML},
 }
 
 @inproceedings{casella2025fed2rc,
@@ -81,6 +84,7 @@
 	location     = {Porto, Portugal},
 	url          = {https://iris.unito.it/retrieve/b3d4f7f0-c7ec-4ad3-96be-6b55add95b6a/FAIA-413-FAIA251198.pdf},
 	abstract     = {Time series classification (TSC) is a critical task with applications in various domains, including healthcare, finance, and industrial monitoring. Due to privacy concerns and data regulations, Federated Learning has emerged as a promising approach for learning from distributed time series data without centralizing raw information. However, most FL solutions rely on a client-server architecture, which introduces robustness and confidentiality risks related to the distinguished role of the server, which is a single point of failure and can observe knowledge extracted from clients. To address these challenges, we propose DROCKS, a fully decentralized FL framework for TSC that leverages ROCKET (RandOm Convolutional KErnel Transform) features. In DROCKS, the global model is trained by sequentially traversing a structured path across federation nodes, where each node refines the model and selects the most effective local kernels before passing them to the successor. Extensive experiments on the UCR archive demonstrate that DROCKS outperforms state-of-the-art client-server FL approaches while being more resilient to node failures and malicious attacks. Our code is available at https://anonymous.4open.science/r/DROCKS-7FF3/README.md.},
+  abbr = {WAFL@ECML}
 }
 
 @article{chisari2025cloud,
@@ -353,7 +357,8 @@
   abstract = {Classic Machine Learning (ML) techniques require training on data available in a single data lake (either centralized or distributed). However, aggregating data from different owners is not always convenient for different reasons, including security, privacy and secrecy. Data carry a value that might vanish when shared with others; the ability to avoid sharing the data enables industrial applications where security and privacy are of paramount importance, making it possible to train global models by implementing only local policies which can be run independently and even on air-gapped data centres. Federated Learning (FL) is a distributed machine learning approach which has emerged as an effective way to address privacy concerns by only sharing local AI models while keeping the data decentralized. Two critical challenges of Federated Learning are managing the heterogeneous systems in the same federated network and dealing with real data, which are often not independently and identically distributed (non-IID) among the clients. In this paper, we focus on the second problem, i.e., the problem of statistical heterogeneity of the data in the same federated network. In this setting, local models might be strayed far from the local optimum of the complete dataset, thus possibly hindering the convergence of the federated model. Several Federated Learning algorithms, such as FedAvg, FedProx and Federated Curvature (FedCurv), aiming at tackling the non-IID setting, have already been proposed. This work provides an empirical assessment of the behaviour of FedAvg and FedCurv in common non-IID scenarios. Results show that the number of epochs per round is an important hyper-parameter that, when tuned appropriately, can lead to significant performance gains while reducing the communication cost. As a side product of this work, we release the non-IID version of the datasets we used so to facilitate further comparisons from the FL community.},
   keywords = {eupilot},
   pubstate = {published},
-  tppubtype = {inproceedings}
+  tppubtype = {inproceedings},
+  abbr = {ITADATA}
 }
 
 @inproceedings{22:VISAPP:transferlearning,
