@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 7th July 1998
     - name: Languages
-      value: Italian, English 
+      value: Italian, English
 
 - title: Education
   type: time_table
@@ -44,7 +44,7 @@
 
     - title: Software manager
       institution: Studio commercialista Giuseppe Casella, Catania, Italy
-      year: 2017 - 2021 
+      year: 2017 - 2021
       description:
         - In charge of processing accounting data via remote connection system.
         - Continuously improved the infrastructure architecture of the studio since launching the service.
@@ -55,5 +55,3 @@
     - year: 2024
       items:
         - Honorable Mention Award, Premio Internazionale Galileo Galilei per la promozione della Ricerca Umanistica e Scientifica riservato a giovani studiosi
-
-

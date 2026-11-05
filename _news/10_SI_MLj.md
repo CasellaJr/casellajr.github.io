@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Special Issue announcement! 
-We (me, Linara Adilova and Michael Kamp from TU Dortmund) are pleased to announce that we have a Special Issue on the _Machine Learning_ journal on Advances in Federated Learning for Critical Applications. 
+Special Issue announcement!
+We (me, Linara Adilova and Michael Kamp from TU Dortmund) are pleased to announce that we have a Special Issue on the _Machine Learning_ journal on Advances in Federated Learning for Critical Applications.
 Visit [SI's page](https://link.springer.com/collections/ebjjijeiff) for more information!

@@ -9,5 +9,3 @@ description: Download my CV in <a href="assets/pdf/cv.pdf"> English.
 toc:
   sidebar: left
 ---
-
-

@@ -11,12 +11,12 @@ nav_order: 4
 
 <h3>2026-2027</h3>
 
-- [Artificial Intelligence and Machine Learning](https://www.suiss.unito.it/do/corsi.pl/Show?_id=i2ip) 
-- [Intelligenza artificiale e apprendimento automatico B, Laurea Magistrale in Scienze e Militari (Percorso Sistemi Infrastrutturali), Università di Torino](https://www.suiss.unito.it/do/corsi.pl/Show?_id=mxww) 
+- [Artificial Intelligence and Machine Learning](https://www.suiss.unito.it/do/corsi.pl/Show?_id=i2ip)
+- [Intelligenza artificiale e apprendimento automatico B, Laurea Magistrale in Scienze e Militari (Percorso Sistemi Infrastrutturali), Università di Torino](https://www.suiss.unito.it/do/corsi.pl/Show?_id=mxww)
 
 <h3>2025-2026</h3>
 
-- [Intelligenza artificiale e apprendimento automatico B, Laurea Magistrale in Scienze e Militari (Percorso Sistemi Infrastrutturali), Università di Torino](https://www.suiss.unito.it/do/storicocorsi.pl/Show?_id=bju3_2526) 
+- [Intelligenza artificiale e apprendimento automatico B, Laurea Magistrale in Scienze e Militari (Percorso Sistemi Infrastrutturali), Università di Torino](https://www.suiss.unito.it/do/storicocorsi.pl/Show?_id=bju3_2526)
 
 <h2>Supervised theses</h2>
 
