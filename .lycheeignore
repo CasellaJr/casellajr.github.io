@@ -1,2 +1,7 @@
 linkedin.com
 reddit.com
+https://www\.suiss\.unito\.it/.*
+https://ebooks\.iospress\.nl/.*
+https://github\.com/alshedivat/al-folio/blob/main/.*
+file://.*/_projects
+file://.*/_posts

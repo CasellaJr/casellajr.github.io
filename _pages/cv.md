@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 3
 cv_pdf: cv.pdf # you can also use external links here
-description: Download my CV in <a href="assets/pdf/cv.pdf"> English.
+description: Download my CV in <a href="/assets/pdf/cv.pdf">English</a>.
 toc:
   sidebar: left
 ---
