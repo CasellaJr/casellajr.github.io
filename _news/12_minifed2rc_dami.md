@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 We had an accepted paper at DAMI journal (Q1, quartile based on Scimago).
-I, Samuele Fonio, Lorenzo Sciandra, Claudio Gallicchio, Marco Aldinucci, Mirko Polato, and Roberto Esposito published a paper on "<a href="https://link.springer.com/journal/10618" rel="external nofollow noopener" target="_blank">Fast Federated Time Series Classification using Rocket Kernels and Closed-form Classifiers</a>".
+I, Samuele Fonio, Lorenzo Sciandra, Claudio Gallicchio, Marco Aldinucci, Mirko Polato, and Roberto Esposito published a paper on "<a href="https://link.springer.com/article/10.1007/s10618-026-01282-z" rel="external nofollow noopener" target="_blank">Fast Federated Time Series Classification using Rocket Kernels and Closed-form Classifiers</a>".
