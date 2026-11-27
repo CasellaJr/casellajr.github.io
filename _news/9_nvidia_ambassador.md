@@ -7,4 +7,4 @@ related_posts: false
 
 Certification announcement!
 I have been certified to teach _Data Parallelism: How to Train Deep Learning Models on Multiple GPUs_ from the NVIDIA Deep Learning Institute (DLI). I will give my first workshop on May 8th 2026. Registration is necessary.
-Visit [workshop's page](https://alpha.di.unito.it/nvidia-deep-learning-institute-dli/) for more information!
+Visit [workshop's page](https://alpha.di.unito.it/events/nvidia-workshop-2026/) for more information!
